@@ -71,7 +71,7 @@ This file runs the complete analysis pipeline.
 
 ## 3. Dataset
 
-The dataset is not bundled with this public copy. Download the [Sample Sales Data dataset from Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data), then place `sales_data_sample.csv` in the `data/` folder. Generated result CSVs, charts, and the analysis notebook from the original export are also omitted from this public copy.
+The sample dataset is included at `data/sales_data_sample.csv`. The original generated result CSVs, charts, and analysis notebook are also included in this public copy.
 
 See [DATASET_ATTRIBUTION.md](./DATASET_ATTRIBUTION.md) for the dataset source and license.
 
