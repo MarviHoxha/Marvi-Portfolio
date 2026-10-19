@@ -1,0 +1,4 @@
+Segment,Customer_Count,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Business_Recommendation
+At-Risk,17,417.59,2.12,64250.06,1092250.98,"Use reactivation campaigns, personalized discounts, or special return offers."
+Regular,73,149.19,2.9,93289.61,6810141.29,"Use loyalty campaigns, product recommendations, and moderate promotional offers."
+VIP,2,35.5,19.0,694554.4,1389108.81,"Target with premium offers, exclusive campaigns, and early access promotions."

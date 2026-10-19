@@ -1,0 +1,74 @@
+COUNTRY,CITY,Total_Sales,Total_Orders,Total_Customers,Avg_Order_Value
+Spain,Madrid,911769.83,27,3,3533.99
+USA,San Rafael,647596.31,16,1,3638.18
+USA,NYC,515430.11,15,5,3735.0
+Singapore,Singapore,288488.41,9,2,3651.75
+France,Paris,268944.68,9,3,3842.07
+USA,San Francisco,224358.68,7,2,3618.69
+USA,New Bedford,207874.86,6,2,3407.78
+Australia,Melbourne,200995.41,5,1,3654.46
+USA,Brickhaven,165255.2,8,3,3516.07
+France,Nantes,160520.17,6,2,3415.32
+UK,Manchester,157807.81,3,1,3094.27
+Australia,North Sydney,153996.13,4,1,3347.74
+USA,Philadelphia,151189.13,5,2,3436.12
+Austria,Salzburg,149798.63,4,1,3744.97
+France,Lyon,142874.25,3,1,3484.74
+Italy,Reggio Emilia,142601.33,3,1,3656.44
+USA,Cambridge,139244.0,4,2,3664.32
+Italy,Bergamo,137955.72,3,1,2874.08
+France,Reims,135042.94,5,1,3293.73
+USA,Nashua,131685.3,3,1,3873.1
+UK,London,124823.54,5,2,3284.83
+USA,Burlingame,120783.07,4,1,3552.44
+Japan,Minato-ku,120562.74,4,1,3767.59
+Switzerland,Gensve,117713.56,2,1,3797.21
+Norway,Stavern,116599.19,4,1,3643.72
+USA,Allentown,115971.34,3,1,3999.01
+Finland,Espoo,113961.15,3,1,3798.7
+Norway,Bergen,111640.28,3,1,3849.66
+Finland,Helsinki,111250.38,3,1,3708.35
+Australia,Chatswood,107599.55,3,1,3260.59
+USA,Boston,105752.77,4,2,3525.09
+Finland,Oulu,104370.38,3,1,3261.57
+USA,San Jose,102127.18,3,1,3647.4
+USA,Bridgewater,101894.79,3,1,4075.79
+Denmark,Aaarhus,100595.55,2,1,3725.76
+Germany,Koln,100306.58,2,1,3857.95
+Denmark,Kobenhavn,94950.12,3,1,3798.0
+Italy,Torino,94117.26,2,1,3619.89
+Philippines,Makati City,94015.73,3,1,3615.99
+USA,San Diego,87489.23,2,1,3499.57
+USA,White Plains,85555.99,2,1,3290.62
+Sweden,Boras,85548.41,2,1,3888.56
+Germany,Frankfurt,85171.59,4,1,3871.44
+USA,Las Vegas,82751.08,3,1,2853.49
+France,Strasbourg,80438.48,3,1,4233.6
+USA,New Haven,79472.07,2,1,4674.83
+Norway,Oslo,79224.23,2,1,3301.01
+Spain,Barcelona,78411.86,3,1,3409.21
+UK,Cowes,78240.84,2,1,3009.26
+Canada,Vancouver,75238.92,2,1,3419.95
+France,Marseille,74936.14,3,1,2997.45
+Canada,Tsawassen,74634.85,2,1,2870.57
+Canada,Montreal,74204.79,3,1,3372.94
+France,Toulouse,70488.44,3,1,3524.42
+France,Lille,69052.41,2,1,3452.62
+Japan,Osaka,67605.07,2,1,3380.25
+UK,Liverpool,67600.02,2,1,4506.67
+Belgium,Bruxelles,66560.57,2,1,3328.03
+USA,Glendale,66423.77,5,2,3019.26
+France,Versailles,64834.32,2,1,3601.91
+USA,Pasadena,60288.6,2,1,3546.39
+Australia,South Brisbane,59469.12,3,1,3964.61
+Ireland,Dublin,57756.43,2,1,3609.78
+Spain,Sevilla,54723.62,2,1,3648.24
+USA,Brisbane,50218.51,2,1,3347.9
+Australia,Glen Waverly,50213.37,2,1,2789.63
+Sweden,Lule,49494.67,3,1,3807.28
+USA,Los Angeles,48048.46,2,1,3432.03
+USA,Burbank,46084.64,2,1,3544.97
+USA,Newark,36709.19,2,1,4078.8
+Germany,Munich,34993.92,1,1,2499.57
+Belgium,Charleroi,33440.1,4,1,4180.01
+Austria,Graz,23713.31,2,1,3387.62

@@ -1,6 +1,6 @@
 # Marvi Hoxha — Project Portfolio
 
-University project source code and documentation, shared for recruiters to explore.
+University projects, shared publicly so recruiters can explore the source code, documentation, dataset, and results.
 
 | Project | Files |
 | --- | --- |
@@ -23,7 +23,11 @@ A Python project for targeted advertising analysis, including customer segmentat
 - [Source files](./applications-of-ai-in-business/src/)
 - [Dataset source and attribution](./applications-of-ai-in-business/DATASET_ATTRIBUTION.md)
 
-The public AI project includes source code and instructions. The dataset, generated result files, charts, and analysis notebook are not bundled; results can be generated locally after obtaining the sample dataset.
+The AI project includes the original sample dataset, generated result CSVs, charts, and analysis notebook.
+
+- [Analysis notebook](./applications-of-ai-in-business/notebooks/exploration.ipynb)
+- [Analysis outputs](./applications-of-ai-in-business/outputs/)
+- [Forecast results](./applications-of-ai-in-business/forecast_results/)
 
 ## Import details
 
