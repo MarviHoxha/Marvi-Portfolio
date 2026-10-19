@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.env
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs (charts, plots)
+outputs/
+forecast_results/
+
+# OS files
+.DS_Store
+Thumbs.db

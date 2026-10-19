@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'Unknown'
+version = '1.0-SNAPSHOT'
+
+// Hier stellen wir das Projekt auf ein modernes Java 21 ein
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+application {
+    mainClass = 'Unknown.Main'
+}
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+repositories {
+    mavenCentral() // Das ist der moderne Ersatz für den langen "repo.maven.apache.org" Link
+}
+
+dependencies {
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.18.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.3'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.10.3'
+    // Falls du später Bibliotheken brauchst, kommen sie hier rein
+}
+
+test {
+    useJUnitPlatform()
+}
