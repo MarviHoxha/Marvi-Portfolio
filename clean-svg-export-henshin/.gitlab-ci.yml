@@ -1,0 +1,15 @@
+image: gradle:9.3.0-jdk21
+
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script:
+    - gradle build -x test
+
+test:
+  stage: test
+  script:
+    - gradle test
