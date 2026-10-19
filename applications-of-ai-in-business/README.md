@@ -18,13 +18,13 @@ The project helps answer the following business questions:
 To download the project, open Git Bash, Command Prompt, PowerShell, or a terminal and run:
 
 ```bash
-git clone https://github.com/MarviHoxha/Marvi-Portfolio.git
+git clone https://gitlab.uni-marburg.de/hoxham/mvp-dataset.git
 ```
 
 Then move into the project folder:
 
 ```bash
-cd Marvi-Portfolio/applications-of-ai-in-business
+cd mvp-dataset
 ```
 
 ---
@@ -70,10 +70,6 @@ This file runs the complete analysis pipeline.
 ---
 
 ## 3. Dataset
-
-The sample dataset is included at `data/sales_data_sample.csv`. The original generated result CSVs, charts, and analysis notebook are also included in this public copy.
-
-See [DATASET_ATTRIBUTION.md](./DATASET_ATTRIBUTION.md) for the dataset source and license.
 
 The dataset is stored in:
 
@@ -446,8 +442,8 @@ This folder contains forecasting results, such as:
 A new user can run the full project with these commands:
 
 ```bash
-git clone https://github.com/MarviHoxha/Marvi-Portfolio.git
-cd Marvi-Portfolio/applications-of-ai-in-business
+git clone https://gitlab.uni-marburg.de/hoxham/mvp-dataset.git
+cd mvp-dataset
 python -m pip install pandas matplotlib scikit-learn mlxtend
 python main.py
 ```
