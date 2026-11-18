@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="331" height="228" viewBox="0 0 331 228">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Tahoma, Verdana, 'DejaVu Sans', Arial, sans-serif" font-size="9" fill="#000000">
+<rect x="10" y="10" width="311" height="208" rx="4" fill="#ffffff" stroke="#000000" stroke-width="1.2"/>
+<line x1="10" y1="32" x2="321" y2="32" stroke="#000000" stroke-width="1"/>
+<path d="M 13 19 h 11 M 13 24 h 11 M 20 15 l 6.5 6.5 l -6.5 6.5" fill="none" stroke="#000000" stroke-width="1.3"/>
+<text x="31" y="25" font-style="italic">Rule deleteAllAccounts(in client:EString)</text>
+<g>
+<rect x="188" y="143" width="83" height="40" fill="#ececec" stroke="#808080"/>
+<text x="190" y="152" fill="#808080">«preserve»</text>
+<text x="190" y="163">:Client</text>
+<line x1="188" y1="166" x2="271" y2="166" stroke="#808080"/>
+<rect x="197" y="173" width="8" height="5" rx="1" fill="#ffffff" stroke="#6e6e6e" stroke-width="0.8"/>
+<text x="211" y="179">name=client</text>
+</g>
+<g>
+<rect x="51" y="51" width="53" height="40" fill="#ececec" stroke="#808080"/>
+<text x="53" y="60" fill="#808080">«preserve»</text>
+<text x="53" y="71">:Bank</text>
+<line x1="51" y1="74" x2="104" y2="74" stroke="#808080"/>
+</g>
+<g>
+<rect x="205" y="51" width="53" height="40" fill="#ececec" stroke="#808080"/>
+<text x="207" y="60" fill="#808080">«preserve»</text>
+<text x="207" y="71">:Manager</text>
+<line x1="205" y1="74" x2="258" y2="74" stroke="#808080"/>
+</g>
+<g>
+<rect x="56" y="149" width="48" height="40" fill="#fcdada" stroke="#e04040" stroke-opacity="0.6"/>
+<rect x="51" y="144" width="48" height="40" fill="#fcdada" stroke="#e04040"/>
+<text x="53" y="153" fill="#e82020">«delete*»</text>
+<text x="53" y="164">:Account</text>
+<line x1="51" y1="167" x2="99" y2="167" stroke="#e04040"/>
+</g>
+</g>
+</svg>

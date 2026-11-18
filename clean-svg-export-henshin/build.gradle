@@ -13,7 +13,7 @@ java {
     }
 }
 application {
-    mainClass = 'Unknown.Main'
+    mainClass = 'henshinIntegration.HenshinSvgMain'
 }
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
